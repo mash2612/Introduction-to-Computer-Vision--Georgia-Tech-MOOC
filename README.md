@@ -22,4 +22,4 @@ Following Operations have been explored in the file Image_Operations:
 
 
 ## Important Links:
-(https://www.hdm-stuttgart.de/~maucher/Python/ComputerVision/html/Filtering.html)
+[Computer Vision with Python's Documentation](https://www.hdm-stuttgart.de/~maucher/Python/ComputerVision/html/Filtering.html)
