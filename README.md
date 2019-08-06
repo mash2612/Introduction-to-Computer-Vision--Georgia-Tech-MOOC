@@ -17,3 +17,9 @@ Following Operations have been explored in the file Image_Operations:
 - [ ] Learning to work with GitHub
 - [ ] Complete the assignments in the Course
 - [ ] Explore the operations over and above the course requirement
+
+
+
+
+## Important Links:
+(https://www.hdm-stuttgart.de/~maucher/Python/ComputerVision/html/Filtering.html)
